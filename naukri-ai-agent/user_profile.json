@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "current_role": "",
+  "current_company": "",
+  "total_experience_years": 0,
+  "automation_experience_years": 0,
+  "location": "Chennai",
+  "skills": [
+    "Java",
+    "Selenium WebDriver",
+    "Karate Framework",
+    "Rest Assured",
+    "Cucumber BDD",
+    "TestNG",
+    "JUnit",
+    "GraphQL",
+    "API Testing",
+    "SQL",
+    "MongoDB",
+    "Splunk",
+    "Maven",
+    "GitLab CI/CD",
+    "Jira",
+    "Agentic AI",
+    "Amazon Kiro AI"
+  ],
+  "notice_period_days": 90
+}
